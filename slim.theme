@@ -13,9 +13,9 @@ background_color        #000000
 
 input_panel_x           50%
 input_panel_y           10%
-input_name_x            10
+input_name_x            0
 input_name_y            50
-input_pass_x            10
+input_pass_x            0
 input_pass_y            100
 input_font              Sans:size=13:dpi=75
 input_color             #646464
