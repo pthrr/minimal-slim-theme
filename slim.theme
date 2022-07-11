@@ -20,5 +20,5 @@ input_pass_y            100
 input_font              Sans:size=13:dpi=75
 input_color             #646464
 
-username_msg		U
-password_msg		P
+username_msg
+password_msg
